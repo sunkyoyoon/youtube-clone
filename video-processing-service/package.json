@@ -1,5 +1,5 @@
 {
-  "name": "Video Processing Service",
+  "name": "video-processing-service",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/sunkyoyoon/youtube-clone#readme",
@@ -22,8 +22,9 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^7.0.2"
-  }
+  },
+  "keywords": []
 }
